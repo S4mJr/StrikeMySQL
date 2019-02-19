@@ -6,12 +6,12 @@
 
 ### MAINTAINERS
 * **Sam Junior** |
-Github: <a href="https://github.com/samjunior416">@SamJunior</a>
-Telegram: <a href="https://t.me/un00mz">@SamJunior</a>
+Github: <a href="https://github.com/S4mJr">@SamJunior</a>
+Telegram: <a href="https://t.me/shdowcat">@SamJunior</a>
 
 ### PREREQUISITES
 
-* python 3.x
+* python 2.x
 * mysql-server
 
 ### TESTED ON
